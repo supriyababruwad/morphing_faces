@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 Random walk face generator
-
+tested this
 Dependends on:
     * numpy 1.7
     * matplotlib
